@@ -35,7 +35,7 @@ public class Main {
                 challengeList.remove(i);
             }
             else{
-                System.out.println("sam pshel nahui");
+                System.out.println("asdasdasdsam pshel nahui");
             }
         }
 
